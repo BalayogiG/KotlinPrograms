@@ -1,7 +1,7 @@
 import java.lang.IllegalArgumentException
 
 fun main(args: Array<String>){
-    val num =90
+    val num =100
     val percentage=
         if(num in 0..100)
             num

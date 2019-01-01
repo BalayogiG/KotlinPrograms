@@ -6,10 +6,10 @@ fun main(args: Array<String>){
     val b= 20
     val c=if(a<b) a else b
     println("$c, is smaller")
-
-    val result=when(a){
-        0->"is zero"
-        else-> " is Integer"
+    val sam="balayogi"
+    val result=when(sam){
+        is String->"is the String of length ${sam.length}"
+        else-> "is Integer"
     }
     println(result)
 }

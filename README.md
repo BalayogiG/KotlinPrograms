@@ -1,6 +1,7 @@
-<b>Kotlin - <b>
-<b>Introduction<b>
-  
+<font color="blue">
+  <b>Kotlin - <b>
+  <b>Introduction<b>
+</font>
 Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. 
 It is sponsored and developed by JetBrains. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and relies on Java code from the existing Java Class Library, such as the collections framework.
 Kotlin uses aggressive type inference to determine the types of values and expressions for which type has been left unstated. This reduces language verbosity relative to Java, which demands often entirely redundant type specifications prior to version 10. 
@@ -8,12 +9,14 @@ Kotlin code can run on JVM up to latest Java 1Kotlin is a statically typed progr
 It is sponsored and developed by JetBrains. While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and relies on Java code from the existing Java Class Library, such as the collections framework. 
 Kotlin uses aggressive type inference to determine the types of values and expressions for which type has been left unstated. This reduces language verbosity relative to Java, which demands often entirely redundant type specifications prior to version 10. Kotlin code can run on JVM up to latest Java 11.
 
-
-<b> Requirements for Kotlin<b>
+<font color="blue">
+             <b> Requirements for Kotlin<b></font>
 <ul>
   <li>IntelliJ IDE or Eclipse IDE or Android Studio or Kotlin Compiler</li>
   <li>JDK version 10</li>
 </ul>
+
+<p> You can install kotlin from <a href = "https://kotlinlang.org/">here</a>
 
   <p> we can able to code Kotlin in various platform such as IntelliJ IDE or Eclipse IDE or Android studio or Just the native compiler like java. Kotlin is General Purpose Language that can run on the JVM, or being transpiled to JavaScript (with native compilation in the making). It means it can be used to write all sort of applications and those applications can run wherever we have a JVM (so basically everywhere) and even in the browser.
 
